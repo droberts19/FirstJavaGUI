@@ -37,6 +37,7 @@ public class Main extends Application {
         seattleImage = new Image("seattle.jpg");
         myImageView = new ImageView(phillyImage);
 
+        //DONE!
         myImageView.setFitHeight(900);
         myImageView.setFitWidth(1000);
         myImageView.setPreserveRatio(true);
